@@ -1,4 +1,0 @@
-This is a sample text file
-I'm adding more lines to this file.
-Adding more lines to this file.
-Adding some more lines to this file.
